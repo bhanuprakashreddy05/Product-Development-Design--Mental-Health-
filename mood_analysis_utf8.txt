@@ -1,0 +1,25 @@
+﻿Analyzing mood_log_screen.dart...                               
+
+   info - Use 'const' with the constructor to improve performance - lib\features\mood\screens\mood_log_screen.dart:101:25 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\mood\screens\mood_log_screen.dart:101:40 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\mood\screens\mood_log_screen.dart:283:37 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\mood\screens\mood_log_screen.dart:287:37 - prefer_const_constructors
+
+flutter : 4 issues found. 
+(ran in 1.9s)
+At line:1 char:1
++ flutter analyze lib/feat
+ures/mood/screens/mood_log
+_screen.dart > mood ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (4  
+   issues found. (ran i   
+ n 1.9s):String) [], R    
+emoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
